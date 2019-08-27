@@ -170,7 +170,6 @@ public class Interface extends JFrame{
 		destinatario = new JLabel("Enviar para:");
 		destinatario.setBounds(10, 10, 200, 20);
 		painelPrincipal.add(destinatario);
-		//jlvalorCP.setBackground(Color.WHITE);
 		destinatario.setFont(new Font("Arial", Font.BOLD, 14));
 		destinatario.setVisible(true);
 		
